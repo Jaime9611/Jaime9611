@@ -17,9 +17,8 @@ Hi, I'm Jaime
   <a href="https://www.twitter.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css5" width="30" height="30"/>
   <a href="https://www.twitter.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="css5" width="30" height="30"/>
   <a href="https://www.twitter.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="css5" width="30" height="30"/>
-  
-  <br />
   <a href="https://www.twitter.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="css5" width="30" height="30"/>
   <a href="https://www.twitter.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="css5" width="30" height="30"/>
+  <a href="https://www.twitter.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="css5" width="30" height="30"/>
 </p>
 <br />
