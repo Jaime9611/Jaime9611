@@ -1,6 +1,6 @@
-Hi, I'm Jaime
+<h3 align="center">Hi, I'm Jaime Blanco</h3>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2329D4F7&width=450&lines=Full-Stack+web+developer;Passionate+about+learning+new+things"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2329D4F7&width=450&lines=Front-End+Web+developer;Passionate+about+learning+new+things"></a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime9611&layout=compact&theme=dark"/> </a>
